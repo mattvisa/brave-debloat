@@ -24,13 +24,13 @@ Brave debloat uses [group policies](https://support.brave.com/hc/en-us/articles/
 
 # Installation
 
-Windows: https://github.com/MulesGaming/brave-debloat/wiki/Installation-instructions#windows
+Windows: https://github.com/mattvisa/brave-debloat/wiki/Installation-instructions#windows
 Note: I recommend using Slim Brace if your on windows as it does a similar thing as [brave debloat](https://github.com/ltx0101/SlimBrave) but provides more customization via a gui.
 
-Linux: https://github.com/MulesGaming/brave-debloat/wiki/Installation-instructions#linux
+Linux: https://github.com/mattvisa/brave-debloat/wiki/Installation-instructions#linux
 
 -------
 
 # Customizing
 
-[Please see the wiki for instructions on how to change modifications.](https://github.com/MulesGaming/brave-debloat/wiki/Customization)
+[Please see the wiki for instructions on how to change modifications.](https://github.com/mattvisa/brave-debloat/wiki/Customization)
