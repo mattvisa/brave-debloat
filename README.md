@@ -31,14 +31,14 @@ Brave debloat uses [group policies](https://support.brave.com/hc/en-us/articles/
 * There will be several warnings about how the file could be dangerous, and it will ask for administer permissions. If you do not trust me you can open the file with notepad to verify that it is not malicious.
 * You can now open Brave and to verify that the changes were applied, you can visit brave://policy and it should show multiple policies applied.
 
-##Linux
+## Linux
 * Download brave-debloat-linux-install.sh from releases
 * Open your terminal
 * Type cd ~/Downloads or wherever you downloaded the file
 * Run ./brave-debloat-linux-install.sh (It may make you enter your password)
 * You can now open Brave and to verify that the changes were applied, you can visit brave://policy and it should show multiple policies applied.
 
-##CMDline
+## CMDline
 * Download brave_debullshitinator-policies.json file from the releases page.
 * Close Brave and open your terminal.
 * Run the following commands: sudo mkdir /etc/brave/policies/managed -p then sudo cp ~/Downloads/brave_debullshitinator-policies.json /etc/brave/policies/managed (if you download the file to a directory other than ~/Downloads you will need to change the command to match).
