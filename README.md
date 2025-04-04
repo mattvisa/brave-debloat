@@ -43,3 +43,26 @@ Brave debloat uses [group policies](https://support.brave.com/hc/en-us/articles/
 * Close Brave and open your terminal.
 * Run the following commands: sudo mkdir /etc/brave/policies/managed -p then sudo cp ~/Downloads/brave_debloat-policies.json /etc/brave/policies/managed (if you download the file to a directory other than ~/Downloads you will need to change the command to match).
 * You can now open Brave and to verify that the changes were applied, you can visit brave://policy and it should show multiple policies applied.
+
+#Additional Resources
+If you are running a network DNS server, AdGuard, or PiHole, here is a handy list of domains to blacklist:
+
+* p3a.brave.com  
+* rewards.brave.com  
+* api.rewards.brave.com  
+* grant.rewards.brave.com  
+* variations.brave.com  
+* laptop-updates.brave.com  
+* static1.brave.com  
+* crlsets.brave.com  
+* static.brave.com  
+* ads.brave.com  
+* ads-admin.brave.com  
+* ads-help.brave.com  
+* referrals.brave.com  
+* analytics.brave.com  
+* search.anonymous.ads.brave.com  
+* p3a.brave.com  
+* variations.brave.com  
+* star-randsrv.bsg.brave.com  
+* usage-ping.brave.com
