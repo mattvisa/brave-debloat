@@ -1,5 +1,5 @@
 # brave-debloat
-Removes unnecessary bloat from Brave Browser.
+Removes unnecessary bloat from Brave Browser. Forked from https://github.com/MulesGaming/brave-debullshitinator
 
 -------
 
@@ -14,6 +14,10 @@ The following items are disabled by appling brave debloat:
 * Disables the password manager (I recommend using a third party password manager such as [Bitwarden](https://bitwarden.com) or [Proton Pass](https://proton.me/pass) that isn't tied to Brave sync or any one browser.)
 * Disabled Brave's Tor integration as it is insecure.
 * Ads numerous other privacy respecting options for Linux
+##Add or Remove Your Own:
+* brave://policy/ [URL shows very close to real time updates of policy changes]
+* https://chromeenterprise.google/policies/ [Google Chrome website to explain many of the group policy options and choices] 
+* https://instinctive.app/chromesettings/  [Amazing resource to review what nearly every single group policy does]
 
 -------
 
