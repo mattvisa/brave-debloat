@@ -1,6 +1,6 @@
 # Start
 echo "Starting Brave Debloat installer"
-echo "Brave debloat is forked from Mules Gaming. Find it here: https://github.com/MulesGaming/brave-debullshitinator"
+echo "Brave debloat is forked from Mules Gaming."
 # Make dir
 sudo mkdir /etc/brave/policies/managed -p
 # Download file
