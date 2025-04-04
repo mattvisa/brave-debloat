@@ -39,7 +39,7 @@ Brave debloat uses [group policies](https://support.brave.com/hc/en-us/articles/
 * You can now open Brave and to verify that the changes were applied, you can visit brave://policy and it should show multiple policies applied.
 
 ## CMDline
-* Download brave_debullshitinator-policies.json file from the releases page.
+* Download brave_debloat-policies.json file from the releases page.
 * Close Brave and open your terminal.
-* Run the following commands: sudo mkdir /etc/brave/policies/managed -p then sudo cp ~/Downloads/brave_debullshitinator-policies.json /etc/brave/policies/managed (if you download the file to a directory other than ~/Downloads you will need to change the command to match).
+* Run the following commands: sudo mkdir /etc/brave/policies/managed -p then sudo cp ~/Downloads/brave_debloat-policies.json /etc/brave/policies/managed (if you download the file to a directory other than ~/Downloads you will need to change the command to match).
 * You can now open Brave and to verify that the changes were applied, you can visit brave://policy and it should show multiple policies applied.
