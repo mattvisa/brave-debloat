@@ -75,8 +75,7 @@ If you are running a network DNS server, AdGuard, or PiHole, here is a handy lis
 
 # Brave Debloaters
 
-https://github.com/MulesGaming/brave-debullshitinator  
-
+* https://github.com/MulesGaming/brave-debullshitinator  
 * https://github.com/nomadxxxx/fast-brave-debloater
 * https://github.com/libalpm64/Better-Brave-Browser
 * https://gist.github.com/yashgorana/869542b66d7188729716379abe7464e0
