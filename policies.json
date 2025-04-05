@@ -25,7 +25,7 @@
     "GenAiLensOverlaySettings": 2,
     "GenAILocalFoundationalModelSettings": 1,
     "FeedbackSurveysEnabled": false,
-    "NewTabPageLocation": "https://searx.onspokes.com",
+    "NewTabPageLocation": "https://search.brave.com",
     "TorDisabled": true,
     "CloudProfileReportingEnabled": false,
     "CloudReportingEnabled": false,
