@@ -15,7 +15,7 @@ The following items are disabled by appling brave debloat:
 * Disabled Brave's Tor integration as it is insecure.
 * Ads numerous other privacy respecting options for Linux
 
-##Add or Remove Your Own by updating the policies.json file (for Linux):
+## Add or Remove Your Own by updating the policies.json file (for Linux):
 * brave://policy/ [URL shows very close to real time updates of policy changes]
 * https://chromeenterprise.google/policies/ [Google Chrome website to explain many of the group policy options and choices] 
 * https://instinctive.app/chromesettings/  [Amazing resource to review what nearly every single group policy does]
