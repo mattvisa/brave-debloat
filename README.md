@@ -42,6 +42,7 @@ Brave debloat uses [group policies](https://support.brave.com/hc/en-us/articles/
 * Type cd ~/Downloads or wherever you downloaded the file
 * Run ./brave-debloat-linux-install.sh (It may make you enter your password)
 * You can now open Brave and to verify that the changes were applied, you can visit brave://policy and it should show multiple policies applied.
+* In the end, your JSON file will live here: /etc/brave/policies/managed/policies.json
 
 ## CMDline
 * Download brave_debloat-policies.json file from the releases page.
