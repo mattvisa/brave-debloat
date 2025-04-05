@@ -50,7 +50,7 @@ Brave debloat uses [group policies](https://support.brave.com/hc/en-us/articles/
 * Run the following commands: sudo mkdir /etc/brave/policies/managed -p then sudo cp ~/Downloads/brave_debloat-policies.json /etc/brave/policies/managed (if you download the file to a directory other than ~/Downloads you will need to change the command to match).
 * You can now open Brave and to verify that the changes were applied, you can visit brave://policy and it should show multiple policies applied.
 
-#Additional Resources
+# Additional Resources
 If you are running a network DNS server, AdGuard, or PiHole, here is a handy list of domains to blacklist:
 
 * p3a.brave.com  
@@ -72,3 +72,12 @@ If you are running a network DNS server, AdGuard, or PiHole, here is a handy lis
 * variations.brave.com  
 * star-randsrv.bsg.brave.com  
 * usage-ping.brave.com
+
+# Brave Debloaters
+
+https://github.com/MulesGaming/brave-debullshitinator  
+
+* https://github.com/nomadxxxx/fast-brave-debloater
+* https://github.com/libalpm64/Better-Brave-Browser
+* https://gist.github.com/yashgorana/869542b66d7188729716379abe7464e0
+* https://github.com/ltx0101/SlimBrave
