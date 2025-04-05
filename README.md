@@ -1,5 +1,5 @@
 # brave-debloat
-Removes unnecessary bloat from Brave Browser. Forked from https://github.com/MulesGaming/brave-debullshitinator
+Removes unnecessary bloat from Brave Browser.
 
 -------
 
